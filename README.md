@@ -40,7 +40,7 @@ This project was created as a school assignment to integrate game-based learning
 
 > You can add your images like this once you upload them to the repo:
 
-![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 1]([screenshots/screenshot1.png](https://github.com/umutcakir10/UmutCakirUnityProject/blob/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(421).png))  
 *Force measurement animation scene*
 
 ![Screenshot 2](screenshots/screenshot2.png)  
