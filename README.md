@@ -38,13 +38,26 @@ This project was created as a school assignment to integrate game-based learning
 
 ## 📷 Screenshots
 
-> You can add your images like this once you upload them to the repo:
 
-![Screenshot 1](Ekran Görüntüsü (421).png)  
+
+![Screenshot 1](screenshot_1.png)  
 *Force measurement animation scene*
 
-![Screenshot 2](Ekran Görüntüsü (422).png)  
+![Screenshot 2](screenshot_2.png)  
 *Dropdown quiz interface*
+![Screenshot 3](screenshot_3.png)
+
+![Screenshot 4](screenshot_4.png)
+
+![Screenshot 5](screenshot_5.png)
+
+![Screenshot 6](screenshot_6.png)
+
+![Screenshot 7](screenshot_7.png)
+
+![Screenshot 8](screenshot_8.png)
+
+
 
 ## 📁 Folder Structure (optional)
 
