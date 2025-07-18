@@ -32,7 +32,7 @@ This project was created as a school assignment to integrate game-based learning
 | Action | Input |
 |--------|-------|
 | Navigate menu | Mouse click |
-| Select/Confirm | Mouse or keyboard (Enter) |
+| Select/Confirm | Mouse or keyboard |
 | Interact with activities | Mouse |
 | Move through steps | Keyboard arrows / Back & Next buttons |
 
@@ -41,22 +41,22 @@ This project was created as a school assignment to integrate game-based learning
 
 
 ![Screenshot 1](screenshot_1.png)  
-*Force measurement animation scene*
+*Main scene*
 
 ![Screenshot 2](screenshot_2.png)  
 *Dropdown quiz interface*
 ![Screenshot 3](screenshot_3.png)
-
+*Feedback mechanism*
 ![Screenshot 4](screenshot_4.png)
-
+*Dropdown quiz interface*
 ![Screenshot 5](screenshot_5.png)
-
+*Activity screen*
 ![Screenshot 6](screenshot_6.png)
-
+*Activity in moting with chronometer*
 ![Screenshot 7](screenshot_7.png)
-
+*Help screen design*
 ![Screenshot 8](screenshot_8.png)
-
+*Activty screen*
 
 
 ## 📁 Folder Structure (optional)
