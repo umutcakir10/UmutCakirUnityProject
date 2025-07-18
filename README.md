@@ -48,7 +48,7 @@ This project was created as a school assignment to integrate game-based learning
 ![Screenshot 3](screenshot_3.png)
 *Feedback mechanism*
 ![Screenshot 4](screenshot_4.png)
-*Dropdown quiz interface*
+*Activity screen *
 ![Screenshot 5](screenshot_5.png)
 *Activity screen*
 ![Screenshot 6](screenshot_6.png)
